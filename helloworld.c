@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Hello World! This is Geeksfor geks.org ")
+	printf("Hello World!")
+	printf(" Testing ")
 	return 0;
 }
